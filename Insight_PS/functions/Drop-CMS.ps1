@@ -1,16 +1,16 @@
 <#
  .Synopsis
-  Finds if SQL Instance exists on Instances Table
+  Drops CMS Root Folder
 
  .Description
-  Finds if SQL Instance exists on Instances Table. This function queries Instances table on Insight database
+  Drops CMS Root Folder
 
  .Parameter Name
-  Instance Name
+  None
 
  .Example
-   # Serch for Instances with the name like 'SQLServer'
-   Find-InsightInstance -Name 'SQLServer'
+   # Drop CMS Root Folder
+   Drop-CMS
 #>
 function Drop-CMS {
 
