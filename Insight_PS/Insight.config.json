@@ -1,0 +1,11 @@
+{
+    "info": {
+        "project": "Insight PowerShell Module",
+        "author:": "Daniel Berber",
+        "version": "1.0"
+    },
+    "settings": {
+	    "cmsserver": "brvdbsqlp24.corporate.administaff.com\\Instance1",
+        "dbconnection": "Server = brvdbsqlp24.corporate.administaff.com\\Instance1; Database = Insight"
+    }
+}
